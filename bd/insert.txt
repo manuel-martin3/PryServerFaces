@@ -1,0 +1,2 @@
+use tutorial;
+insert into login(username, password) values('adm','123');
